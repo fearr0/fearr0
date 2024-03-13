@@ -31,10 +31,11 @@ Merhaba! Ben [Hasan Can], bir yazılım geliştiriciyim. [Discord sunucularına 
 
 ## 📷 Projelerimden Bazı Ekran Görüntüleri
 
-![Proje 1](https://cdn.discordapp.com/attachments/1207359839039393793/1217267385321390161/kaytButton.png?ex=66036798&is=65f0f298&hm=ac148714b1acbbf4e29504c8ec5bacf5e4ace9c3a2c0965c80c9fd8b71e909f5&)
-![Proje 2]([https://cdn.discordapp.com/attachments/1207359839039393793/1217267385321390161/kaytButton.png?ex=66036798&is=65f0f298&hm=ac148714b1acbbf4e29504c8ec5bacf5e4ace9c3a2c0965c80c9fd8b71e909f5&](https://cdn.discordapp.com/attachments/1207359839039393793/1217267384306372648/kayt2.png?ex=66036798&is=65f0f298&hm=4d8940b45cdd0047611fb9e3eba377b81168a512cf737c5a1322ab8f29f3f4a4&))
-![Proje 3]([images/proje2.png](https://cdn.discordapp.com/attachments/1207359839039393793/1217267385690620034/isimler.png?ex=66036798&is=65f0f298&hm=80f237d880a80f4aeb77e7e8169fcc1f1859fd2bd0a013a409ab45e24732df5d&))
-![Proje 4](https://cdn.discordapp.com/attachments/1207359839039393793/1217267386059591701/isimler2.png?ex=66036798&is=65f0f298&hm=f3762bf82fe0bbe4007fac6e3779cd8abd87de75c7f1a708b638348c6e474b9c&)
+![]((https://cdn.discordapp.com/attachments/1207359839039393793/1217267385321390161/kaytButton.png?ex=66036798&is=65f0f298&hm=ac148714b1acbbf4e29504c8ec5bacf5e4ace9c3a2c0965c80c9fd8b71e909f5&))
+![](https://cdn.discordapp.com/attachments/1207359839039393793/1217267385321390161/kaytButton.png?ex=66036798&is=65f0f298&hm=ac148714b1acbbf4e29504c8ec5bacf5e4ace9c3a2c0965c80c9fd8b71e909f5&)
+![](https://cdn.discordapp.com/attachments/1207359839039393793/1217267385690620034/isimler.png?ex=66036798&is=65f0f298&hm=80f237d880a80f4aeb77e7e8169fcc1f1859fd2bd0a013a409ab45e24732df5d&)
+![](https://cdn.discordapp.com/attachments/1207359839039393793/1217267386059591701/isimler2.png?ex=66036798&is=65f0f298&hm=f3762bf82fe0bbe4007fac6e3779cd8abd87de75c7f1a708b638348c6e474b9c&)
+
 
 ## 📫 İletişim
 
