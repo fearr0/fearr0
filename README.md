@@ -43,6 +43,11 @@ Merhaba! Ben [Hasan Can], bir yazılım geliştiriciyim. [Discord sunucularına 
   | Smurfsx                             | Smurfsx                                   | Smurfsx                                    | Smurfsx                      |
   | ------------------------------------------------ | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- |
   | <img src="https://cdn.discordapp.com/attachments/1207359839039393792/1220895122028363816/Screenshot_2.png?ex=66109a30&is=65fe2530&hm=3e2b57fb0a3d7bc429f3df1cdb87ff8ca605640ace63ba079aeeb4af6a7c86f2&" />  | <img src="https://cdn.discordapp.com/attachments/1207359839039393792/1220895122380689438/Screenshot_1.png?ex=66109a30&is=65fe2530&hm=7d9cd92ed5670647802a6127f6e412aabd1f975b98a556fd7b829c71c6f0630d&" /> | <img src="https://cdn.discordapp.com/attachments/1207359839039393792/1220895122665898024/Screenshot_4.png?ex=66109a30&is=65fe2530&hm=6cb2fc33253b54028273c576cd65effe486e02eed74b63b2541de33492426763&" /> | <img src="https://cdn.discordapp.com/attachments/1207359839039393792/1220895123064492072/Screenshot_3.png?ex=66109a30&is=65fe2530&hm=0c69f345826437e1c576b1acd3316a5c80eb4b14b4f308d8b2048a65b5c11529&" /> |
+
+  | Smurfsx                             | Smurfsx                                   | Smurfsx                                    | Smurfsx                      |
+  | ------------------------------------------------ | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- |
+  | <img src="https://cdn.discordapp.com/attachments/1195748639306424481/1221903820846530650/Screenshot_7.png?ex=6614459c&is=6601d09c&hm=9cad1679af1bd343a99e784d5e311228d6053d64780dbcbc8c23d53e9d2178ef&" />  | <img src="" /> | <img src="" /> | <img src="" /> |
+
 </details>
 
 ## 📫 İletişim
