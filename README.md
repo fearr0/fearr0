@@ -38,15 +38,15 @@ Merhaba! Ben [Hasan Can], bir yazılım geliştiriciyim. [Discord sunucularına 
 
   | Smurfsx                             | Smurfsx                                   | Smurfsx                                    | Smurfsx                      |
   | ------------------------------------------------ | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- |
-  | <img src="https://cdn.discordapp.com/attachments/1207359839039393793/1217267385321390161/kaytButton.png?ex=66036798&is=65f0f298&hm=ac148714b1acbbf4e29504c8ec5bacf5e4ace9c3a2c0965c80c9fd8b71e909f5&" />  | <img src="https://cdn.discordapp.com/attachments/1207359839039393793/1217267384306372648/kayt2.png?ex=66036798&is=65f0f298&hm=4d8940b45cdd0047611fb9e3eba377b81168a512cf737c5a1322ab8f29f3f4a4&" /> | <img src="https://cdn.discordapp.com/attachments/1207359839039393793/1217267385690620034/isimler.png?ex=66036798&is=65f0f298&hm=80f237d880a80f4aeb77e7e8169fcc1f1859fd2bd0a013a409ab45e24732df5d&" /> | <img src="https://cdn.discordapp.com/attachments/1207359839039393793/1217267386059591701/isimler2.png?ex=66036798&is=65f0f298&hm=f3762bf82fe0bbe4007fac6e3779cd8abd87de75c7f1a708b638348c6e474b9c&" /> |
+  | <img src="[https://r.resimlink.com/SF5bu.png](https://r.resimlink.com/SF5bu.png?v=b71d53406f246030cad6720d0d261662)" />  | <img src="" /> | <img src="" /> | <img src="" /> |
 
   | Smurfsx                             | Smurfsx                                   | Smurfsx                                    | Smurfsx                      |
   | ------------------------------------------------ | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- |
-  | <img src="https://cdn.discordapp.com/attachments/1207359839039393792/1220895122028363816/Screenshot_2.png?ex=66109a30&is=65fe2530&hm=3e2b57fb0a3d7bc429f3df1cdb87ff8ca605640ace63ba079aeeb4af6a7c86f2&" />  | <img src="https://cdn.discordapp.com/attachments/1207359839039393792/1220895122380689438/Screenshot_1.png?ex=66109a30&is=65fe2530&hm=7d9cd92ed5670647802a6127f6e412aabd1f975b98a556fd7b829c71c6f0630d&" /> | <img src="https://cdn.discordapp.com/attachments/1207359839039393792/1220895122665898024/Screenshot_4.png?ex=66109a30&is=65fe2530&hm=6cb2fc33253b54028273c576cd65effe486e02eed74b63b2541de33492426763&" /> | <img src="https://cdn.discordapp.com/attachments/1207359839039393792/1220895123064492072/Screenshot_3.png?ex=66109a30&is=65fe2530&hm=0c69f345826437e1c576b1acd3316a5c80eb4b14b4f308d8b2048a65b5c11529&" /> |
+  | <img src="" />  | <img src="" /> | <img src="" /> | <img src="" /> |
 
   | Smurfsx                             | Smurfsx                                   | Smurfsx                                    | Smurfsx                      |
   | ------------------------------------------------ | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- |
-  | <img src="https://cdn.discordapp.com/attachments/1195748639306424481/1221903820846530650/Screenshot_7.png?ex=6614459c&is=6601d09c&hm=9cad1679af1bd343a99e784d5e311228d6053d64780dbcbc8c23d53e9d2178ef&" />  | <img src="" /> | <img src="" /> | <img src="" /> |
+  | <img src="" />  | <img src="" /> | <img src="" /> | <img src="" /> |
 
 </details>
 
