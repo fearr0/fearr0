@@ -1,3 +1,4 @@
+
 # Merhaba, Ben [Smurfsx] 👋
 
 [![Discord](https://img.shields.io/badge/Discord-smurfsx%239999-FFAC33?style=flat&logo=discord&logoColor=black)](https://discord.com/users/1189181791551098912) 
@@ -38,15 +39,23 @@ Merhaba! Ben [Hasan Can], bir yazılım geliştiriciyim. [Discord sunucularına 
 
   | Smurfsx                             | Smurfsx                                   | Smurfsx                                    | Smurfsx                      |
   | ------------------------------------------------ | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- |
-  | <img src="[https://r.resimlink.com/SF5bu.png](https://r.resimlink.com/SF5bu.png?v=b71d53406f246030cad6720d0d261662)" />  | <img src="" /> | <img src="" /> | <img src="" /> |
+  | <img src="https://r.resimlink.com/IpbDHzgeSMa.png" />  | <img src="https://r.resimlink.com/pRAsbEh.png" /> | <img src="https://r.resimlink.com/lfpWGTKOX.png" /> | <img src="https://r.resimlink.com/YZ4bs9Xw8_I.png" /> |
 
   | Smurfsx                             | Smurfsx                                   | Smurfsx                                    | Smurfsx                      |
   | ------------------------------------------------ | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- |
-  | <img src="" />  | <img src="" /> | <img src="" /> | <img src="" /> |
+  | <img src="https://r.resimlink.com/cOKR_z6.png" />  | <img src="https://r.resimlink.com/ygIE08CcDHzJ.png" /> | <img src="https://r.resimlink.com/x7CNwvLud6-i.png" /> | <img src="https://r.resimlink.com/XV5pxw.png" /> |
 
   | Smurfsx                             | Smurfsx                                   | Smurfsx                                    | Smurfsx                      |
   | ------------------------------------------------ | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- |
-  | <img src="" />  | <img src="" /> | <img src="" /> | <img src="" /> |
+  | <img src="https://r.resimlink.com/DwigFNj32t.png" />  | <img src="https://r.resimlink.com/g9ZlxYq-.png" /> | <img src="https://r.resimlink.com/3xmiVe-ITR.png" /> | <img src="https://r.resimlink.com/DibYf.png" /> |
+  
+  | Smurfsx                             | Smurfsx                                   | Smurfsx                                    | Smurfsx                      |
+  | ------------------------------------------------ | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- |
+  | <img src="https://r.resimlink.com/uP6h0B.png" />  | <img src="https://r.resimlink.com/ogbz-0QMKJL.png" /> | <img src="https://r.resimlink.com/lmqh1I-NW.png" /> | <img src="https://r.resimlink.com/XhnGDT6SKt.png" /> |
+
+  | Smurfsx                             | Smurfsx                                   | Smurfsx                                    | Smurfsx                      |
+  | ------------------------------------------------ | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- |
+  | <img src="https://r.resimlink.com/jVwX9IxBOYhm.png" />  |
 
 </details>
 
