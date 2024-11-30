@@ -53,7 +53,7 @@ Merhaba! Ben [Hasan Can], bir yazılım geliştiriciyim. [Discord sunucularına 
 </details>
 
 ## 📫 İletişim
-- Discord Profilim: [![Discord](https://img.shields.io/discourse/users?style=flat)](https://discord.com/users/1189181791551098912)
+- Discord Profilim: [![Discord](https://img.shields.io/badge/Discord-1189181791551098912-blue?style=flat&logo=discord)](https://discord.com/users/1189181791551098912)
 - E-posta: [hsncn142@gmail.com]
 
 ## ⚡ Eğlence
