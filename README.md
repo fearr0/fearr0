@@ -3,7 +3,7 @@
 
 ## 🚀 Hakkımda
 
-Merhaba! Ben [Hasan Can], bir yazılım geliştiriciyim. [Discord sunucularına özel bot yapıyorum]. İlgilendiğim konular arasında [Backend üzerinde geliştirmeler, siteler ve daha farklı projelerle kendimi hem geliştirmek hem de uğraşmak daha çok hoşuma gidiyor]. Yaratıcı ve problem çözme becerilerine sahip bir geliştirici olarak [Discord sunucularınızda herhangi bir yazılımı gerçekleştirebilirim ve sizlerin problemini çözmek için elimden geleni yapmaya çalışırım].
+Merhaba! Ben [Can], bir yazılım geliştiriciyim. [Discord sunucularına özel bot yapıyorum]. İlgilendiğim konular arasında [Backend üzerinde geliştirmeler, siteler ve daha farklı projelerle kendimi hem geliştirmek hem de uğraşmak daha çok hoşuma gidiyor]. Yaratıcı ve problem çözme becerilerine sahip bir geliştirici olarak [Discord sunucularınızda herhangi bir yazılımı gerçekleştirebilirim ve sizlerin problemini çözmek için elimden geleni yapmaya çalışırım].
 
 ## 💻 Teknolojik Yetenekler
 
